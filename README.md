@@ -7,11 +7,10 @@ A estrutura do relatório atende a uma demanda real da empresa, permitindo anál
 ---
 ## 🛠️ Tecnologias utilizadas
 
-![Power BI](https://img.shields.io/badge/Power%20BI-FFDC00?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-FFDC00?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power%20Query-2C2C2C?style=for-the-badge&logo=microsoft&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-1E4D8B?style=for-the-badge&logo=databricks&logoColor=white)
-![Canva](https://img.shields.io/badge/Figma-303030?style=for-the-badge&logo=figma&logoColor=white)
-
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ---
 
 ## ⚙️ Estrutura da solução
@@ -22,7 +21,6 @@ A estrutura do relatório atende a uma demanda real da empresa, permitindo anál
 4. Criação de colunas calculadas e medidas de alerta para análise de saldos, status de prestação e dias em atraso.
 5. Atualização quinzenal dos dados com novas planilhas.
 6. Construção de dashboards interativos para acompanhamento e gestão financeira.
-- **Visual desenhado no Figma** e implementado no Power BI
 
 
 ---
@@ -30,17 +28,17 @@ A estrutura do relatório atende a uma demanda real da empresa, permitindo anál
 ## 🖼️ Imagem dos dashboards
 
 
-![Dashboard de Combustivel](comb_dash1.png)
+![Dashboard de Combustivel](alelo1.png)
 
 
 
 
-![Dashboard de Combustivel](comb_dash2.png)
+![Dashboard de Combustivel](alelo2.png)
 
 
 
 
-![Dashboard de Combustivel](comb_dash3.png)
+![Dashboard de Combustivel](alelo3.png)
 
 ---
 🚀 **Click abaixo e veja meu Dashboard publicado**:  
