@@ -28,7 +28,7 @@ A estrutura do relatório atende a uma demanda real da empresa, permitindo anál
 ## 🖼️ Imagem dos dashboards
 
 
-![Dashboard de Combustivel](alelo1.png)
+![Dashboard de Combustivel](alelo5.png)
 
 
 
